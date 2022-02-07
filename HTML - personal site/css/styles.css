@@ -1,0 +1,23 @@
+.profile{
+  border-radius: 50px;
+}
+
+body {
+  background-color: #e8eae6;
+}
+h1{
+  color: #6b591d;
+}
+h1:hover{
+  color: black;
+}
+h3{
+    color: #6b591d;
+}
+hr {
+  background-color: #f6e5f5;
+  border-style: dotted none none;
+  border-color: #6b591d;
+  width: 5%;
+  border-width: 5px;
+}
